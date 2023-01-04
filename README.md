@@ -1,2 +1,2 @@
 # MazeSolver
-A program which uses recursion to solve a maze. The program will mark bad paths with B and successful paths with *
+A program that utilizes recursion and multidimensional arrays to solve a maze. The program will mark bad paths with a 'B' and successful paths with a *.
